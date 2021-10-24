@@ -1,6 +1,6 @@
 {
   "name": "astro-meta-blogspot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "meta.astro",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/mzaini30/astro-meta-blogspot.git"
   },
-  "keywords": [],
+  "keywords": ["astro-component"],
   "author": "",
   "license": "ISC",
   "bugs": {
